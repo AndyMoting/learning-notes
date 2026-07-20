@@ -18,12 +18,8 @@
 - 熟练使用 list/dict/set/tuple 处理测试数据
 - 掌握 json/re/os/datetime/logging 等测试常用标准库
 
-## 自测汇总
+## 说明
 
-- [ ] 能独立编写 100 行以内的 Python 脚本
-- [ ] 理解类/对象/继承/封装/多态的概念与语法
-- [ ] 能用列表推导式和字典推导式简化代码
-- [ ] 能用 json 模块解析和构造 API 数据
-- [ ] 能用 re 模块完成数据格式校验
-- [ ] 能用 logging 输出测试运行日志
-- [ ] 能用 os/pathlib 管理测试文件路径
+本模块 4 课覆盖 Python 入门核心，课时有限。**进入 03-接口测试 之前，建议额外完成 30-50 道练习题**，重点练熟 dict/list 操作、文件读写（csv/json）和函数封装。不打熟的话，写 requests 脚本时容易卡在数据处理上。
+
+推荐补练：[Python 官方教程](https://docs.python.org/zh-cn/3/tutorial/) | [Exercism Python Track](https://exercism.org/tracks/python)
