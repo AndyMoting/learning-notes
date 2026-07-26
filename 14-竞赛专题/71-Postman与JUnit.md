@@ -1,4 +1,4 @@
-# 69-Postman与JUnit
+# 71-Postman与JUnit
 > 课时：45 min | 难度：★★★
 
 ## 学习目标

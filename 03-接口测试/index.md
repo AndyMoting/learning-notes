@@ -9,7 +9,7 @@
 | 13 | [[13-HTTP协议详解\|HTTP 协议详解]] | 60min | ★★ |
 | 14 | [[14-curl与接口调试\|curl 与接口调试]] | 45min | ★★ |
 | 15 | [[15-Postman操作\|Postman 操作]] | 90min | ★★ |
-| 16 | [[16-Newman与CI\|Newman CLI + CI 集成]] | 60min | ★★★ |
+| 16 | [[16-Newman与CI集成\|Newman CLI + CI 集成]] | 60min | ★★★ |
 | 17 | [[17-Python-requests\|Python requests]] | 60min | ★★ |
 | 18 | [[18-接口自动化框架\|接口自动化框架]] | 90min | ★★★ |
 | 19 | [[19-接口鉴权测试\|接口鉴权测试]] | 60min | ★★★ |

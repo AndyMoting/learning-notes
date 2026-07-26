@@ -2,7 +2,7 @@
 
 > 从零到就业 / 竞赛的完整软件测试学习体系
 
-![课时](https://img.shields.io/badge/课时-71课-blue)
+![课时](https://img.shields.io/badge/课时-73课-blue)
 ![模块](https://img.shields.io/badge/模块-14个-green)
 ![风格](https://img.shields.io/badge/风格-教科书+手册+笔记-orange)
 
